@@ -9,7 +9,7 @@ You can copy the files, but I must be in the readme or in the code!
 
 
 
-## سلام اینو ببین قبل از باز کردن فایل 
+سلام اینو ببین قبل از باز کردن فایل
 
 
 فایل سورس کد هست و میتونید تغییرش بدید و کد هارو بخونید
@@ -23,6 +23,10 @@ You can copy the files, but I must be in the readme or in the code!
 ## Support
 bridgezanyt1
 
----
-[![](https://visitcount.itsvg.in/api?id=bridgerzan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Screenshots
+
+![App Screenshot](https://linklick.ir/dl/hash/0Kbb6BFNcjyMVhf1)
+
+
 
