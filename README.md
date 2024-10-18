@@ -1,3 +1,14 @@
+## Hi, see this before opening the file
+There is a source code file and you can change it and read the code. If something happens to your windows, I will not take responsibility for anything!
+
+You can copy the files, but I must be in the readme or in the code!
+
+ If you have a problem, you can come to the discord page and ask your question
+
+
+
+
+
 ## سلام اینو ببین قبل از باز کردن فایل 
 
 
