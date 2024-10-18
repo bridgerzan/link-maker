@@ -23,3 +23,6 @@ You can copy the files, but I must be in the readme or in the code!
 ## Support
 bridgezanyt1
 
+---
+[![](https://visitcount.itsvg.in/api?id=bridgerzan&icon=0&color=0)](https://visitcount.itsvg.in)
+
